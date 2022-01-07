@@ -1,0 +1,25 @@
+
+#main-heading{
+   background: green;
+   display: inline-block;
+   font-size: 15px;
+   text-align: center;
+   padding: 15px 5px;
+   border-radius: 10px;
+}
+
+#main-heading .text1{
+   opacity: 0;
+   display: block;
+}
+
+#main-heading .text{
+   color: yellow;
+}
+
+#main-heading:active{
+   background: red;
+}
+
+
+
